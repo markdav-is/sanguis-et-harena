@@ -38,6 +38,7 @@ main.content { max-width: 1120px; margin: 0 auto; padding-left: 1.5rem; padding-
   border-radius: 0.3rem; font-size: 1.1rem;
 }
 .sh-cta:hover { filter: brightness(1.1); }
+.sh-cta.sh-comingsoon { opacity: .55; cursor: default; }
 .sh-price { margin-top: 0.8rem; color: var(--c-muted); font-size: 0.95rem; }
 .sh-cover img { width: 100%; border-radius: 0.5rem; box-shadow: 0 20px 60px rgba(0,0,0,0.6); }
 .sh-section { padding: 3rem 0; border-top: 1px solid var(--c-border); }
@@ -89,7 +90,7 @@ main.content { max-width: 1120px; margin: 0 auto; padding-left: 1.5rem; padding-
 <div class="sh-title">Sanguis<br>et Harena</div>
 <div class="sh-aka">Blood and Sand</div>
 <p class="sh-tagline">A tactical card game of timing, positioning, and nerve.</p>
-<a class="sh-cta" href="https://www.drivethrurpg.com/en/product/588027/sanguis-harena">Get the Game on DriveThruRPG</a>
+<span class="sh-cta sh-comingsoon">Coming Soon</span>
 <p class="sh-price">36-card print-and-play deck &mdash; $14.99 &middot; rulebook PDF included</p>
 </div>
 <div class="sh-cover"><img src=".attachments/cover.jpg" alt="Sanguis et Harena cover art"></div>
@@ -166,7 +167,7 @@ main.content { max-width: 1120px; margin: 0 auto; padding-left: 1.5rem; padding-
 <h2 style="margin-top:0;">Get in the Arena</h2>
 <p>36 poker-size cards &middot; 10-page full-color rulebook &middot; 2&ndash;6 players, ages 12+</p>
 <div class="sh-big">$14.99</div>
-<a class="sh-cta" href="https://www.drivethrurpg.com/en/product/588027/sanguis-harena">Get the Game on DriveThruRPG</a>
+<span class="sh-cta sh-comingsoon">Coming Soon</span>
 </div>
 <p class="sh-freerules">Just want the rules? <a href=".attachments/sanguis-et-harena-rulebook.pdf">Download the free rulebook (PDF)</a></p>
 <p class="sh-note">Card art is AI-generated placeholder art, disclosed per DriveThruRPG policy. Wicked Combo is commissioning human artists for future printings &mdash; this release funds that work.</p>
