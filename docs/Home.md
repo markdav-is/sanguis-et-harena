@@ -176,6 +176,6 @@ main.content { max-width: 1120px; margin: 0 auto; padding-left: 1.5rem; padding-
 <div class="sh-footer">
 <a href="https://wickedcombo.com/"><img src=".attachments/wicked-combo-logo.jpg" alt="Wicked Combo"></a>
 <p>Published by <a href="https://wickedcombo.com/">Wicked Combo</a> &middot; &copy; 2026</p>
-<p>Also at <a href="https://bloodandsandgame.com/">BloodAndSandGame.com</a> &middot; <a href="https://sanguisetharena.com/">SanguisEtHarena.com</a></p>
+<p>Also at <a href="https://bloodandsandgame.com/">BloodAndSandGame.com</a></p>
 </div>
 
