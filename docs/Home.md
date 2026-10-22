@@ -166,7 +166,7 @@ main.content { max-width: 1120px; margin: 0 auto; padding-left: 1.5rem; padding-
 <div class="sh-buybox">
 <h2 style="margin-top:0;">Get in the Arena</h2>
 <p>46 poker-size cards &middot; 14-page full-color rulebook &middot; 2&ndash;6 players, ages 12+</p>
-<div class="sh-big">$14.99</div>
+<div class="sh-big">$9.99</div>
 <a class="sh-cta" href="https://www.drivethrurpg.com/en/product/588027/sanguis-harena">Get the Game on DriveThruRPG</a>
 </div>
 <p class="sh-freerules">Just want the rules? <a href=".attachments/sanguis-et-harena-rulebook.pdf">Download the free rulebook (PDF)</a></p>
