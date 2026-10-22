@@ -90,7 +90,7 @@ main.content { max-width: 1120px; margin: 0 auto; padding-left: 1.5rem; padding-
 <div class="sh-title">Sanguis<br>et Harena</div>
 <div class="sh-aka">Blood and Sand</div>
 <p class="sh-tagline">A tactical card game of timing, positioning, and nerve.</p>
-<span class="sh-cta sh-comingsoon">Coming Soon</span>
+<a class="sh-cta" href="https://www.drivethrurpg.com/en/product/588027/sanguis-harena">Get the Game on DriveThruRPG</a>
 <p class="sh-price">46-card deck &mdash; $9.99 &middot; two-deck starter $19.99 &middot; rulebook PDF included</p>
 </div>
 <div class="sh-cover"><img src=".attachments/cover.jpg" alt="Sanguis et Harena cover art"></div>
@@ -167,7 +167,7 @@ main.content { max-width: 1120px; margin: 0 auto; padding-left: 1.5rem; padding-
 <h2 style="margin-top:0;">Get in the Arena</h2>
 <p>46 poker-size cards &middot; 13-page full-color rulebook &middot; 2&ndash;6 players, ages 12+</p>
 <div class="sh-big">$14.99</div>
-<span class="sh-cta sh-comingsoon">Coming Soon</span>
+<a class="sh-cta" href="https://www.drivethrurpg.com/en/product/588027/sanguis-harena">Get the Game on DriveThruRPG</a>
 </div>
 <p class="sh-freerules">Just want the rules? <a href=".attachments/sanguis-et-harena-rulebook.pdf">Download the free rulebook (PDF)</a></p>
 <p class="sh-freerules">Want to playtest? <a href="https://wickedcombo.itch.io/sanguis-et-harena">Get the free print-and-play on itch.io</a></p>
