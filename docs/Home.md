@@ -93,8 +93,8 @@ main.content { max-width: 1120px; margin: 0 auto; padding-left: 1.5rem; padding-
 <div class="sh-aka">Blood and Sand</div>
 <p class="sh-tagline">A tactical card game of timing, positioning, and nerve.</p>
 <p class="sh-live">Now live &mdash; v0.4.1 is out and ready for playtesting. <a href="https://wickedcombo.itch.io/sanguis-et-harena">Grab the free print-and-play</a>, play a bout or two, and tell us how it went.</p>
-<a class="sh-cta" href="https://www.drivethrurpg.com/en/product/588027/sanguis-harena">Get the Game on DriveThruRPG</a>
-<p class="sh-price">46-card deck &mdash; $12.99 &middot; two-deck starter $24.99 &middot; rulebook PDF included</p>
+<a class="sh-cta" href="https://www.drivethrurpg.com/en/product/588715/sanguis-et-harena-two-deck-starter-set">Get the Game on DriveThruRPG</a>
+<p class="sh-price">46-card deck &mdash; <a href="https://www.drivethrurpg.com/en/product/588027/sanguis-harena">$12.99</a> &middot; two-deck starter <a href="https://www.drivethrurpg.com/en/product/588715/sanguis-et-harena-two-deck-starter-set">$24.99</a> &middot; rulebook PDF included</p>
 </div>
 <div class="sh-cover"><img src=".attachments/cover.jpg" alt="Sanguis et Harena cover art"></div>
 </div>
@@ -168,9 +168,9 @@ main.content { max-width: 1120px; margin: 0 auto; padding-left: 1.5rem; padding-
 <div class="sh-section">
 <div class="sh-buybox">
 <h2 style="margin-top:0;">Get in the Arena</h2>
-<p>46 poker-size cards &middot; 23-page full-color rulebook &middot; 2&ndash;6 players, ages 12+</p>
-<div class="sh-big">$12.99</div>
-<a class="sh-cta" href="https://www.drivethrurpg.com/en/product/588027/sanguis-harena">Get the Game on DriveThruRPG</a>
+<p>92 poker-size cards (two 46-card decks) &middot; 23-page full-color rulebook &middot; 2&ndash;6 players, ages 12+</p>
+<div class="sh-big">$24.99</div>
+<a class="sh-cta" href="https://www.drivethrurpg.com/en/product/588715/sanguis-et-harena-two-deck-starter-set">Get the Game on DriveThruRPG</a>
 </div>
 <p class="sh-freerules">Just want the rules? <a href=".attachments/sanguis-et-harena-rulebook.pdf">Download the free rulebook (PDF)</a></p>
 <p class="sh-freerules">Want to playtest? <a href="https://wickedcombo.itch.io/sanguis-et-harena">Get the free print-and-play on itch.io</a></p>
