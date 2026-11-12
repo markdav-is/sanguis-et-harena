@@ -32,6 +32,8 @@ main.content { max-width: 1120px; margin: 0 auto; padding-left: 1.5rem; padding-
   font-size: 0.95rem; margin: 0 0 1.4rem;
 }
 .sh-tagline { font-size: 1.3rem; font-style: italic; color: var(--c-ink); margin-bottom: 2rem; }
+.sh-live { font-size: 1.05rem; color: var(--c-accent); margin-bottom: 1.5rem; }
+.sh-live a { color: var(--c-accent); }
 .sh-cta {
   display: inline-block; background: var(--c-accent); color: #141009;
   font-weight: bold; padding: 0.9rem 2.4rem; text-decoration: none;
@@ -90,6 +92,7 @@ main.content { max-width: 1120px; margin: 0 auto; padding-left: 1.5rem; padding-
 <div class="sh-title">Sanguis<br>et Harena</div>
 <div class="sh-aka">Blood and Sand</div>
 <p class="sh-tagline">A tactical card game of timing, positioning, and nerve.</p>
+<p class="sh-live">Now live &mdash; v0.4.1 is out and ready for playtesting. <a href="https://wickedcombo.itch.io/sanguis-et-harena">Grab the free print-and-play</a>, play a bout or two, and tell us how it went.</p>
 <a class="sh-cta" href="https://www.drivethrurpg.com/en/product/588027/sanguis-harena">Get the Game on DriveThruRPG</a>
 <p class="sh-price">46-card deck &mdash; $12.99 &middot; two-deck starter $24.99 &middot; rulebook PDF included</p>
 </div>
@@ -106,7 +109,7 @@ main.content { max-width: 1120px; margin: 0 auto; padding-left: 1.5rem; padding-
 <span class="sh-step">REPEAT</span>
 </div>
 <div class="sh-body">
-<p>Each round runs six seconds. Every second, you secretly choose one card and reveal it together with your opponents &mdash; then resolve everything live on your burn-down track. Cards slide down each second; when they burn off, you pay their water and score their glory.</p>
+<p>Each round runs six seconds. Every second, you secretly choose one card and reveal it together with your opponents &mdash; then resolve everything live on your burn-down track. Cards slide down each second; you pay their water when you play them, and score their glory when they burn off.</p>
 <p><strong>Water</strong> fuels every card. <strong>Glory</strong> rewards bold play. <strong>Positioning</strong> decides every exchange. Most glory after six rounds wins &mdash; unless you finish your rivals first.</p>
 </div>
 </div>
