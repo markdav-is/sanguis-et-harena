@@ -78,6 +78,9 @@ main.content { max-width: 1120px; margin: 0 auto; padding-left: 1.5rem; padding-
 }
 .sh-buybox .sh-big { font-size: 2rem; color: var(--c-accent); font-weight: bold; margin: 0.5rem 0; }
 .sh-note { max-width: 720px; margin: 2rem auto 0; font-size: 0.85rem; color: var(--c-muted); }
+.sh-downloads { max-width: 720px; margin: 0 auto 1.2rem; text-align: center; line-height: 1.9; color: var(--c-muted); }
+.sh-downloads a { color: var(--c-accent); }
+.sh-downloads p { margin: 0.2rem 0; }
 .sh-freerules { text-align: center; margin-top: 1.4rem; color: var(--c-muted); }
 .sh-freerules a { color: var(--c-accent); }
 .sh-footer { text-align: center; padding: 3rem 0 2rem; border-top: 1px solid var(--c-border); margin-top: 2rem; }
@@ -162,6 +165,27 @@ main.content { max-width: 1120px; margin: 0 auto; padding-left: 1.5rem; padding-
 <img src=".attachments/card-back.jpg" alt="Card back">
 <img src=".attachments/cards.jpg" alt="Action cards">
 <img src=".attachments/arena.jpg" alt="Hex arena">
+</div>
+</div>
+
+<div class="sh-section">
+<h2>Print and Play</h2>
+<p class="sh-body">The whole game, free to print at home. Start with the <a href=".attachments/sanguis-et-harena-rulebook.pdf">free rulebook</a>, print the cards one of two ways, then print an arena map and a player mat for each seat.</p>
+<p class="sh-body"><strong>Perforated card stock, 6-up.</strong> Print, pop the cards out, play.</p>
+<div class="sh-downloads">
+<p><a href=".attachments/sanguis-et-harena-cards-6up.pdf">Cards, 6-up (PDF)</a> &middot; 36 cards on 6 letter sheets</p>
+<p><a href=".attachments/sanguis-et-harena-aids-6up.pdf">Aid cards and arena tiles, 6-up (PDF)</a> &middot; 10 aids and 5 tiles on 3 sheets</p>
+</div>
+<p class="sh-body"><strong>Sticker sheets, 9-up.</strong> Print on blank-card sticker labels and stick them on blank poker cards.</p>
+<div class="sh-downloads">
+<p><a href=".attachments/sanguis-et-harena-stickers-9up.pdf">Card stickers, 9-up (PDF)</a> &middot; 45 cards on 5 letter sheets (Wheel is not in the sticker set)</p>
+<p><a href=".attachments/sanguis-et-harena-stickers-aids-tiles.pdf">Aid and arena tile stickers, 9-up (PDF)</a> &middot; 2 sheets</p>
+<p><a href=".attachments/sanguis-et-harena-diy-printing.pdf">DIY printing guide (PDF)</a> &middot; what to buy and how to print</p>
+</div>
+<p class="sh-body"><strong>On the table.</strong></p>
+<div class="sh-downloads">
+<p><a href=".attachments/sanguis-et-harena-arena-maps.pdf">Arena maps (PDF)</a> &middot; small map for 2 to 4 players, large map for 5 to 6, 2 sheets</p>
+<p><a href=".attachments/sanguis-et-harena-player-mats.pdf">Player mats (PDF)</a> &middot; 1 sheet, print one per player</p>
 </div>
 </div>
 
