@@ -168,7 +168,7 @@ main.content { max-width: 1120px; margin: 0 auto; padding-left: 1.5rem; padding-
 </div>
 </div>
 
-<div class="sh-section">
+<div class="sh-section" id="print-and-play">
 <h2>Print and Play</h2>
 <p class="sh-body">The whole game, free to print at home. Start with the <a href=".attachments/sanguis-et-harena-rulebook.pdf">free rulebook</a>, print the cards one of two ways, then print an arena map and a player mat for each seat.</p>
 <p class="sh-body"><strong>Perforated card stock, 6-up.</strong> Print, pop the cards out, play.</p>
